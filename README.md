@@ -1,4 +1,4 @@
-### Hi there, I'am Shang👋
+### Hi there, I'm Shang👋
 - :bank: I’m currently working on China
 - 🌱 I’m currently learning Python and Deep learning
 
