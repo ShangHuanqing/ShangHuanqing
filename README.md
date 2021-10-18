@@ -1,5 +1,5 @@
 ### Hi there, I'am Shang👋
-- 🔭 I’m currently working on China
+- :bank: I’m currently working on China
 - 🌱 I’m currently learning Python and Deep learning
 
 | :clock3: My github stats | :pencil2: My Top Langs |
